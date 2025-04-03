@@ -1,0 +1,45 @@
+C:\Users\hp\Desktop\ss\bin\Debug\net9.0\TrainingApp.exe
+C:\Users\hp\Desktop\ss\bin\Debug\net9.0\TrainingApp.deps.json
+C:\Users\hp\Desktop\ss\bin\Debug\net9.0\TrainingApp.runtimeconfig.json
+C:\Users\hp\Desktop\ss\bin\Debug\net9.0\TrainingApp.dll
+C:\Users\hp\Desktop\ss\bin\Debug\net9.0\TrainingApp.pdb
+C:\Users\hp\Desktop\ss\obj\Debug\net9.0\TrainingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\ss\obj\Debug\net9.0\TrainingApp.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\ss\obj\Debug\net9.0\TrainingApp.AssemblyInfo.cs
+C:\Users\hp\Desktop\ss\obj\Debug\net9.0\TrainingApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ss\obj\Debug\net9.0\TrainingApp.sourcelink.json
+C:\Users\hp\Desktop\ss\obj\Debug\net9.0\TrainingApp.dll
+C:\Users\hp\Desktop\ss\obj\Debug\net9.0\refint\TrainingApp.dll
+C:\Users\hp\Desktop\ss\obj\Debug\net9.0\TrainingApp.pdb
+C:\Users\hp\Desktop\ss\obj\Debug\net9.0\TrainingApp.genruntimeconfig.cache
+C:\Users\hp\Desktop\ss\obj\Debug\net9.0\ref\TrainingApp.dll
+C:\Users\hp\Desktop\C#\session 1,2\bin\Debug\net9.0\TrainingApp.exe
+C:\Users\hp\Desktop\C#\session 1,2\bin\Debug\net9.0\TrainingApp.deps.json
+C:\Users\hp\Desktop\C#\session 1,2\bin\Debug\net9.0\TrainingApp.runtimeconfig.json
+C:\Users\hp\Desktop\C#\session 1,2\bin\Debug\net9.0\TrainingApp.dll
+C:\Users\hp\Desktop\C#\session 1,2\bin\Debug\net9.0\TrainingApp.pdb
+C:\Users\hp\Desktop\C#\session 1,2\obj\Debug\net9.0\TrainingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\session 1,2\obj\Debug\net9.0\TrainingApp.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\session 1,2\obj\Debug\net9.0\TrainingApp.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\session 1,2\obj\Debug\net9.0\TrainingApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\session 1,2\obj\Debug\net9.0\TrainingApp.sourcelink.json
+C:\Users\hp\Desktop\C#\session 1,2\obj\Debug\net9.0\TrainingApp.dll
+C:\Users\hp\Desktop\C#\session 1,2\obj\Debug\net9.0\refint\TrainingApp.dll
+C:\Users\hp\Desktop\C#\session 1,2\obj\Debug\net9.0\TrainingApp.pdb
+C:\Users\hp\Desktop\C#\session 1,2\obj\Debug\net9.0\TrainingApp.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\session 1,2\obj\Debug\net9.0\ref\TrainingApp.dll
+C:\Users\hp\Desktop\Full Stack Development\C#\session 1,2\bin\Debug\net9.0\TrainingApp.exe
+C:\Users\hp\Desktop\Full Stack Development\C#\session 1,2\bin\Debug\net9.0\TrainingApp.deps.json
+C:\Users\hp\Desktop\Full Stack Development\C#\session 1,2\bin\Debug\net9.0\TrainingApp.runtimeconfig.json
+C:\Users\hp\Desktop\Full Stack Development\C#\session 1,2\bin\Debug\net9.0\TrainingApp.dll
+C:\Users\hp\Desktop\Full Stack Development\C#\session 1,2\bin\Debug\net9.0\TrainingApp.pdb
+C:\Users\hp\Desktop\Full Stack Development\C#\session 1,2\obj\Debug\net9.0\TrainingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Full Stack Development\C#\session 1,2\obj\Debug\net9.0\TrainingApp.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Full Stack Development\C#\session 1,2\obj\Debug\net9.0\TrainingApp.AssemblyInfo.cs
+C:\Users\hp\Desktop\Full Stack Development\C#\session 1,2\obj\Debug\net9.0\TrainingApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Full Stack Development\C#\session 1,2\obj\Debug\net9.0\TrainingApp.sourcelink.json
+C:\Users\hp\Desktop\Full Stack Development\C#\session 1,2\obj\Debug\net9.0\TrainingApp.dll
+C:\Users\hp\Desktop\Full Stack Development\C#\session 1,2\obj\Debug\net9.0\refint\TrainingApp.dll
+C:\Users\hp\Desktop\Full Stack Development\C#\session 1,2\obj\Debug\net9.0\TrainingApp.pdb
+C:\Users\hp\Desktop\Full Stack Development\C#\session 1,2\obj\Debug\net9.0\TrainingApp.genruntimeconfig.cache
+C:\Users\hp\Desktop\Full Stack Development\C#\session 1,2\obj\Debug\net9.0\ref\TrainingApp.dll
